@@ -6,4 +6,4 @@ It can boot on any x86-64 PC with support for booting from BIOS. You can run it 
 
 ## Image of this running on a real computer
 
-(to be added)
+![20230831_082317](https://github.com/ljgermain/fortranos/assets/154016542/f9676b34-c78d-4c5e-9a73-8b1079785623)
